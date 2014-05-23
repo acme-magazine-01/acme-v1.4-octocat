@@ -1,0 +1,32 @@
+= Article Title: Optional Subtitle
+The Octocat <octocat@github.com>
+:css-signature: acme-v1.4-octocat
+//:hashtag: CamelCase
+//:keywords: keyword_1, keyword_2, ...
+//:description: WRITE ME!
+ifndef::codedir[:codedir: code]
+ifndef::imagesdir[:imagesdir: images]
+:hide-uri-scheme:
+
+[abstract]
+--
+Abstract paragraph(s) goes here.
+--
+
+== First Section Title
+
+.Optional title for source code
+[source,ruby]
+----
+puts 'Hello, World!'
+----
+//----
+//include::{codedir}/filename.extension[]
+//----
+
+//.Mandatory title of image or figure
+//image::filename.extension[]
+
+== About the Author
+
+include::octocat-bio.adoc[]

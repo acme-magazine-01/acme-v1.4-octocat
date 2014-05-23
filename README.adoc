@@ -1,0 +1,51 @@
+= Author Welcome Letter
+
+Values Needed:
+
+* author name - The Octocat
+* author email - octocat@github.com
+* author username - octocat
+* repository name - acme-v1.4-octocat
+* repository description - The Octocat's June 2014 article for ACME Magazine
+* repository url - https://github.com/acme-magazine-01/acme-v1.4-octocat
+* edition month - 2014-06
+* draft deadline - June 15, 2014
+* editor name - 
+* editor email - 
+* article title - 
+* author guide url - 
+* model article url - 
+* resource url - 
+
+Welcome text
+
+== Key Dates
+
+> Due date for drafts (meaning you've pushed to your GitHub repo) will be the 15th of the previous month.
+
+First draft deadline
+Edit start
+Publication date
+
+== Edit Process
+
+What to expect and how to respond
+
+== Article Repository
+
+What documents and assets should be put where
+
+=== Article Template
+
+What it includes that shouldn't be messed with
+
+=== Style Guide
+
+Why you should review it
+What you'll find in it
+How to preview your article
+Additional syntax help
+
+== Help
+
+Final words and thoughts
